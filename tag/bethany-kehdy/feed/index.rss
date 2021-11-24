@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Bethany Kehdy &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/tag/bethany-kehdy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 19:15:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>The Jewelled Kitchen: A Stunning Collection of Lebanese, Moroccan, and Persian Recipes</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/the-jewelled-kitchen-a-stunning-collection-of-lebanese-moroccan-and-persian-recipes/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/the-jewelled-kitchen-a-stunning-collection-of-lebanese-moroccan-and-persian-recipes/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2016 18:13:20 +0000</pubDate>
+				<category><![CDATA[Bethany Kehdy]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=164</guid>
+
+					<description><![CDATA[Kehdy&#8217;s cookbook is an inspired collection of classics and innovative dishes from a part of the world which, at the moment, is enjoying its overdue place in the sun. Her contribution and original, thoughtful and delicious. Go get it! &#8211;Yottam Ottolenghi Bethany Kehdy is renowned for the contemporary Middle Eastern and North African recipes that she... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/the-jewelled-kitchen-a-stunning-collection-of-lebanese-moroccan-and-persian-recipes/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em><strong>Kehdy&#8217;s cookbook is an inspired collection of classics and innovative dishes from a part of the world which, at the moment, is enjoying its overdue place in the sun. Her contribution and original, thoughtful and delicious. Go get it! &#8211;Yottam Ottolenghi</strong></em> Bethany Kehdy is renowned for the contemporary Middle Eastern and North African recipes that she publishes on her blog (dirtykitchensecrets.com). A Lebanese-American born in Houston, Texas and brought up in Lebanon, she spent countless hours learning to cook with her perfectionist <em>teta</em> (grandmother), her vivacious dad and her spirited aunts. Her recipes are a harmonious balance of classic and contemporary, as she draws upon her childhood roots while adding her own personal twist to these iconic recipes.<br><br>The cuisines from the Middle East and North Africa share many diverse influences and gorgeous key ingredients and spices, such as pomegranates, figs, pine nuts, saffron and sumac. Passionate about food and her heritage, this former Miss Lebanon showcases the sheer brilliance of the dishes of the Levant. Try a fragrant Fish Tagine with Preserved Lemons from the Moroccan chapter; fiery Lamb Shanks with Butterbeans and Tomatoes from the Lebanese; or delicately spiced Chicken, Walnuts and Pomegranate Stew from the Persian. All the cuisines of the regions are covered, including Egyptian, Palestinian, Syrian, Turkish, Iraqi and Jordanian, and all the recipes are easy to make. You&#8217;ll find yourself drawn into a whole new world and a whole new way of cooking.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.amazon.com/Jewelled-Kitchen-Stunning-Collection-Lebanese/dp/1848992890/ref=as_li_ss_tl?s=books&amp;ie=UTF8&amp;qid=1546282568&amp;sr=1-9&amp;keywords=persian+cookbooks+best+sellers&amp;linkCode=ll1&amp;tag=persiancookbook-20&amp;linkId=da94ac7a49495d6d7856d95fb92b34d1&amp;language=en_US">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=1848992890" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/the-jewelled-kitchen-a-stunning-collection-of-lebanese-moroccan-and-persian-recipes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">164</post-id>	</item>
+	</channel>
+</rss>

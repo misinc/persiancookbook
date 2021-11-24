@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sabrina Ghayour &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/tag/sabrina-ghayour/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 19:06:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>Persiana: Recipes from the Middle East &#038; beyond</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/persiana-recipes-from-the-middle-east-beyond/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/persiana-recipes-from-the-middle-east-beyond/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2014 17:15:10 +0000</pubDate>
+				<category><![CDATA[Sabrina Ghayour]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=104</guid>
+
+					<description><![CDATA[A FABULOUS COLLECTION OF RECIPES FROM ONE OF THE STRONGEST VOICES IN MIDDLE EASTERN FOOD TODAY A celebration of the food and flavors from the regions near the Southern and Eastern shores of the Mediterranean Sea, with over 100 recipes for modern and accessible Middle Eastern dishes, including Lamb &#38; Sour Cherry Meatballs; Chicken, Preserved... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/persiana-recipes-from-the-middle-east-beyond/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>A FABULOUS COLLECTION OF RECIPES FROM ONE OF THE STRONGEST VOICES IN MIDDLE EASTERN FOOD TODAY<br><br>A celebration of the food and flavors from the regions near the Southern and Eastern shores of the Mediterranean Sea, with over 100 recipes for modern and accessible Middle Eastern dishes, including Lamb &amp; Sour Cherry Meatballs; Chicken, Preserved Lemon &amp; Olive Tagine; Blood Orange &amp; Radicchio Salad; Persian Flatbread; and Spiced Carrot, Pistachio &amp; Coconut Cake with Rosewater Cream.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://amzn.to/2BTc7rB">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=1566569958" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/persiana-recipes-from-the-middle-east-beyond/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">104</post-id>	</item>
+	</channel>
+</rss>

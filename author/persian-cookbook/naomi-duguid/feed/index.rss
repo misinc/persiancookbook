@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Naomi Duguid &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/author/persian-cookbook/naomi-duguid/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 19:05:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>Taste of Persia: A Cook&#8217;s Travels Through Armenia, Azerbaijan, Georgia, Iran, and Kurdistan</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/taste-of-persia-a-cooks-travels-through-armenia-azerbaijan-georgia-iran-and-kurdistan/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/taste-of-persia-a-cooks-travels-through-armenia-azerbaijan-georgia-iran-and-kurdistan/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Tue, 20 Sep 2016 17:11:25 +0000</pubDate>
+				<category><![CDATA[Naomi Duguid]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=97</guid>
+
+					<description><![CDATA[Winner, James Beard Award for Best Book of the Year, International (2017)Winner, IACP Award for Best Cookbook of the Year in Culinary Travel (2017) Named a Best Cookbook of the Year by&#160;The Boston Globe,&#160;Food &#38; Wine,&#160;The Los Angeles Times,&#160;The New York Times,&#160;The New York Times Book Review,&#160;The San Francisco Chronicle,&#160;USA Today, and&#160;The Wall Street Journal... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/taste-of-persia-a-cooks-travels-through-armenia-azerbaijan-georgia-iran-and-kurdistan/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><strong>Winner, James Beard Award for Best Book of the Year, International (2017)<br>Winner, IACP Award for Best Cookbook of the Year in Culinary Travel (2017)<br><br>Named a Best Cookbook of the Year by&nbsp;<em>The Boston Globe</em>,&nbsp;<em>Food &amp; Wine</em>,&nbsp;<em>The Los Angeles Times</em>,&nbsp;<em>The New York Times</em>,&nbsp;<em>The New York Times Book Review</em>,&nbsp;<em>The San Francisco Chronicle</em>,&nbsp;<em>USA Today</em>, and&nbsp;<em>The Wall Street Journal</em><br><br>“A reason to celebrate . . . a fascinating culinary excursion.”&nbsp;<em>—The New York Times</em></strong><br><br>Though the countries in the Persian culinary region are home to diverse religions, cultures, languages, and politics, they are linked by beguiling food traditions and a love for the fresh and the tart. Color and spark come from ripe red pomegranates, golden saffron threads, and the fresh herbs served at every meal. Grilled kebabs, barbari breads, pilafs, and brightly colored condiments are everyday fare, as are rich soup-stews called ash and alluring sweets like rose water pudding and date-nut halvah.<br><br>Our ambassador to this tasty world is the incomparable Naomi Duguid, who for more than 20 years has been bringing us exceptional recipes and mesmerizing tales from regions seemingly beyond our reach. More than 125 recipes, framed with stories and photographs of people and places, introduce us to a culinary paradise where ancient legends and ruins rub shoulders with new beginnings—where a wealth of history and culinary traditions makes it a compelling place to read about for cooks and travelers and for anyone hankering to experience the food of a wider world.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://amzn.to/2SpvjEh">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=1579655483" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/taste-of-persia-a-cooks-travels-through-armenia-azerbaijan-georgia-iran-and-kurdistan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">97</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Shadi HasanzadeNemati &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/tag/shadi-hasanzadenemati/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 18:59:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>The Enchantingly Easy Persian Cookbook: 100 Simple Recipes for Beloved Persian Food Favorites</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/the-enchantingly-easy-persian-cookbook-100-simple-recipes-for-beloved-persian-food-favorites/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/the-enchantingly-easy-persian-cookbook-100-simple-recipes-for-beloved-persian-food-favorites/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2016 18:07:45 +0000</pubDate>
+				<category><![CDATA[Shadi HasanzadeNemati]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=94</guid>
+
+					<description><![CDATA[From the kitchens of Persian families to your dining table, with&#160;The Enchantingly Easy Persian Cookbook&#160;you’ll enjoy easy-to-follow recipes that achieve the vibrant flavors of authentic Persian cuisine.Yogurt, eggplant, lamb kebabs, saffron rice―if you have ever dined in a Persian restaurant then you know how rich, tantalizing, and satisfying Persian cuisine is. Yet many assume that... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/the-enchantingly-easy-persian-cookbook-100-simple-recipes-for-beloved-persian-food-favorites/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><strong>From the kitchens of Persian families to your dining table, with&nbsp;<em>The Enchantingly Easy Persian Cookbook</em>&nbsp;you’ll enjoy easy-to-follow recipes that achieve the vibrant flavors of authentic Persian cuisine.</strong><br>Yogurt, eggplant, lamb kebabs, saffron rice―if you have ever dined in a Persian restaurant then you know how rich, tantalizing, and satisfying Persian cuisine is. Yet many assume that making favorites, like Pomegranate and Walnut Stew or Saffron Syrup Cake, is too difficult to do at home.<br>Shadi HasanzadeNemati grew up in the kitchen of her Persian mother and can still remember being mesmerized by the sweet aromas of saffron and cinnamon. Inspired by her family’s heirloom recipes, Shadi has created a collection of simple, straightforward takes on authentic Persian favorites that are accessible enough for beginners, yet still fun for more seasoned cooks.<br><em>The Enchantingly Easy Persian Cookbook</em>&nbsp;brings the savory comforts and mystical essence of Persian home cooking to your dining table. The step-by-step instructions in this Persian cookbook make it easier than ever to create classic Persian mainstays in your own home.<br>In this uniquely simple Persian cookbook, you’ll find:<br>100 recipes specifically designed to make Persian cooking fun and stress-free for beginners<br><br>A handy how-to guide for preparing basic Persian ingredients―such as de-seeding pomegranates, making saffron-water, drying limes, and storing fresh herbs<br><br>Practical grocery shopping recommendations for Persian pantry staples like cardamom and sumac, plus useful photos for identifying unique ingredients such as ghee and clotted cream<br><br>Helpful labels that indicate each recipe’s level of difficulty, plus “worth the wait” labels for dishes that require more time<br><br>Tried-and-true tips and tricks to make Persian cooking easier and more successful<br><br>Memory sidebars that accompany especially treasured recipes, describing Shadi’s most cherished recollection connected to that dish<br>With the ease and simplicity of&nbsp;<em>The Enchantingly Easy Persian Cookbook</em>&nbsp;you’ll have more fun (and less stress) as you find the magic in new Persian fare, and rediscover the enchantment of recipes you already love.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://amzn.to/2LI1Sei">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=1623157633" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/the-enchantingly-easy-persian-cookbook-100-simple-recipes-for-beloved-persian-food-favorites/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">94</post-id>	</item>
+	</channel>
+</rss>

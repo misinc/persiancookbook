@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Maryam Sinaiee &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/tag/maryam-sinaiee/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 18:57:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>From the Land of Nightingales and Roses: Recipes from the Persian Kitchen</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/from-the-land-of-nightingales-and-roses-recipes-from-the-persian-kitchen/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/from-the-land-of-nightingales-and-roses-recipes-from-the-persian-kitchen/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Tue, 25 Sep 2018 17:25:39 +0000</pubDate>
+				<category><![CDATA[Maryam Sinaiee]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=120</guid>
+
+					<description><![CDATA[In From the Land of Nightingales and Roses, Iranian food blogger and home cook, Maryam Sinaiee, takes us through a full year in the Persian kitchen. Each seasonal chapter offers up delicious recipes alongside insights into the festivals, traditions and rituals that color day-to-day life in this region. From spring through to winter, Maryam offers... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/from-the-land-of-nightingales-and-roses-recipes-from-the-persian-kitchen/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>In From the Land of Nightingales and Roses, Iranian food blogger and home cook, Maryam Sinaiee, takes us through a full year in the Persian kitchen. Each seasonal chapter offers up delicious recipes alongside insights into the festivals, traditions and rituals that color day-to-day life in this region. From spring through to winter, Maryam offers the reader a true taste of real Persian cookingLamb and Eggplant Stew, Baked Fish with Tamarind, and Rosewater Ice Cream with Pistachios. Full of flavor, history and culture, Maryams recipes are a wonderful introduction to the varied and delectable cuisine of this region. Colorful, stunning photography evoking the vibrancy and romance of the country will bring Iran into your home and make you fall in love with this unique way to cook and enjoy food.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://amzn.to/2SwdWBN">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=1623719674" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/from-the-land-of-nightingales-and-roses-recipes-from-the-persian-kitchen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">120</post-id>	</item>
+	</channel>
+</rss>

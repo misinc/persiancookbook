@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Forough-Es-Saltaneh Hekmat &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/tag/forough-es-saltaneh-hekmat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 19:13:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>The Art of Persian Cooking (Hippocrene International Cookbook Classics)</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/the-art-of-persian-cooking-hippocrene-international-cookbook-classics/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/the-art-of-persian-cooking-hippocrene-international-cookbook-classics/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Thu, 01 Jan 1998 19:10:25 +0000</pubDate>
+				<category><![CDATA[Forough-Es-Saltaneh Hekmat]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=161</guid>
+
+					<description><![CDATA[&#8220;For many centuries, the Iranians have looked upon food from three different points of view-the medicinal, the philosophical, and the cultural.&#8221; So reads the preface to this informative and unusual cookbook. In addition to covering 200 sumptuous classic Persian recipes, this collection features special sections on &#8220;The History of Persian Cuisine,&#8221; &#8220;Food and Entertainment within... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/the-art-of-persian-cooking-hippocrene-international-cookbook-classics/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>&#8220;For many centuries, the Iranians have looked upon food from three different points of view-the medicinal, the philosophical, and the cultural.&#8221; So reads the preface to this informative and unusual cookbook. In addition to covering 200 sumptuous classic Persian recipes, this collection features special sections on &#8220;The History of Persian Cuisine,&#8221; &#8220;Food and Entertainment within the Persian Home,&#8221; and &#8220;The Fundamentals of Classic Persian Cooking.&#8221; The nutritious, easy-to-follow recipes include such traditional Persian dishes as Abgushte Adas (Lentil Soup), Mosamme Khoreshe (Eggplant Stew), Lamb Kabob, Cucumber Borani (Special Cucumber Salad), Sugar Halva, and Gol Moraba (Flower Preserves). From creating a holiday menu to determining which utensils to use, The Art of Persian Cooking covers a wide array of practical information to help even the novice chef prepare elaborate Persian dishes. The exotic fare is further enhanced by rich descriptions of the cultural and culinary history of Persian cuisine, without which it cannot be fully appreciated.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.amazon.com/Persian-Hippocrene-International-Cookbook-Classics/dp/0781802415/ref=as_li_ss_tl?s=books&amp;ie=UTF8&amp;qid=1546282568&amp;sr=1-6&amp;keywords=persian+cookbooks+best+sellers&amp;linkCode=ll1&amp;tag=persiancookbook-20&amp;linkId=85877510c5d613c9871919075cd0094e&amp;language=en_US">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=0781802415" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/the-art-of-persian-cooking-hippocrene-international-cookbook-classics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">161</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Naz Deravian &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/tag/naz-deravian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Tue, 01 Jan 2019 00:05:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>Bottom of the Pot: Persian Recipes and Stories</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/bottom-of-the-pot-persian-recipes-and-stories/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/bottom-of-the-pot-persian-recipes-and-stories/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Tue, 18 Sep 2018 16:54:19 +0000</pubDate>
+				<category><![CDATA[Naz Deravian]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=75</guid>
+
+					<description><![CDATA[Naz Deravian lays out the multi-hued canvas of a Persian meal, with 100+ recipes adapted to an American home kitchen and interspersed with Naz&#8217;s celebrated essays exploring the idea of home.At eight years old, Naz Deravian left Iran with her family during the height of the 1979 Iranian Revolution and hostage crisis. Over the following... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/bottom-of-the-pot-persian-recipes-and-stories/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>Naz Deravian lays out the multi-hued canvas of a Persian meal, with 100+ recipes adapted to an American home kitchen and interspersed with Naz&#8217;s celebrated essays exploring the idea of home.<br>At eight years old, Naz Deravian left Iran with her family during the height of the 1979 Iranian Revolution and hostage crisis. Over the following ten years, they emigrated from Iran to Rome to Vancouver, carrying with them books of Persian poetry, tiny jars of saffron threads, and always, the knowledge that home can be found in a simple, perfect pot of rice. As they traverse the world in search of a place to land, Naz&#8217;s family finds comfort and familiarity in pots of hearty aash, steaming pomegranate and walnut chicken, and of course, tahdig: the crispy, golden jewels of rice that form a crust at the bottom of the pot. The best part, saved for last.&nbsp;<br>In&nbsp;<em>Bottom of the Pot</em>, Naz, now an award-winning writer and passionate home cook based in LA, opens up to us a world of fragrant rose petals and tart dried limes, music and poetry, and the bittersweet twin pulls of assimilation and nostalgia. In over 100 recipes, Naz introduces us to Persian food made from a global perspective, at home in an American kitchen.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.amazon.com/Bottom-Pot-Persian-Recipes-Stories/dp/1250134412/ref=as_li_ss_tl?s=books&amp;ie=UTF8&amp;qid=1546278841&amp;sr=1-4&amp;keywords=persian+cookbooks&amp;linkCode=ll1&amp;tag=persiancookbook-20&amp;linkId=3c96130f2b8ee913456dc0a0e95fbb8d&amp;language=en_US">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=1250134412" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+
+
+
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image"><img src="http://bottomofthepot.com/wp-content/uploads/2018/07/36660485_1715092758544628_1758889545522216960_n.jpg" alt=""/><figcaption>Photo credit Jonathan Vandiveer</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column">
+<p>NAZ DERAVIAN is a writer and actor born in Iran. She grew up in Italy and Canada and now lives in Los Angeles with her husband and two children. She is the award-winning voice behind the food blog&nbsp;<em>Bottom of the Pot</em>, which won the 2015 International Association of Culinary Professionals (IACP) Award for best narrative culinary blog. She has also been twice nominated is several categories for the&nbsp;<em>Saveur</em>Food Blog Awards.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/bottom-of-the-pot-persian-recipes-and-stories/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">75</post-id>	</item>
+	</channel>
+</rss>

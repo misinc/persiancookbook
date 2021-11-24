@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>food-of-life &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/tag/food-of-life/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 19:07:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>Food of Life: Ancient Persian and Modern Iranian Cooking and Ceremonies</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/food-of-life-ancient-persian-and-modern-iranian-cooking-and-ceremonies/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/food-of-life-ancient-persian-and-modern-iranian-cooking-and-ceremonies/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2011 16:34:55 +0000</pubDate>
+				<category><![CDATA[Najmieh Batmanglij]]></category>
+		<category><![CDATA[food-of-life]]></category>
+		<category><![CDATA[foodoflife]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=62</guid>
+
+					<description><![CDATA[Completely redesigned for today&#8217;s generation of cooks and food enthusiasts,&#160;the 25th Anniversary Edition of Food of Life: Ancient Persian and Modern Iranian Cooking and Ceremonies&#160;by Najmieh Batmanglij&#160;provides a treasure trove of recipes, along with an immersive cultural experience for those seeking to understand this ancient and timeless cuisine. This edition is a more user-friendly edition... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/food-of-life-ancient-persian-and-modern-iranian-cooking-and-ceremonies/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><strong>Completely redesigned for today&#8217;s generation of cooks and food enthusiasts,<em>&nbsp;the 25th Anniversary Edition of Food of Life: Ancient Persian and Modern Iranian Cooking and Ceremonies</em>&nbsp;by Najmieh Batmanglij&nbsp;</strong>provides a treasure trove of recipes, along with an immersive cultural experience for those seeking to understand this ancient and timeless cuisine. This edition is a more user-friendly edition of the award-winning and critically acclaimed cookbook series which began in 1986.&nbsp;<em>Food of Life&nbsp;</em>provides 330 classical and regional Iranian recipes as well as an introduction to Persian art, history, and culture. The book&#8217;s hundreds of full color photographs are intertwined with descriptions of ancient and modern Persian ceremonies, poetry, folktales, travelogue excerpts and anecdotes. The 2011 Edition of&nbsp;<em>Food of Life</em>&nbsp;is a labor of love. The book began in exile after the Iranian Revolution of 1979 as a love letter to Batmanglij&#8217;s children. Today, as accomplished adults in their own fields, her two sons, Zal and Rostam, encouraged her to redesign the book for their generation.&nbsp;<strong><em>Food of Life</em>&nbsp;propels Persian cooking into the 21st Century,&nbsp;</strong>even as it honors venerable traditions and centuries of artistic expression. It is the result of 30 years of collecting, testing and adapting authentic and traditional Persian recipes for the American kitchen. Most of its ingredients are readily available throughout the U.S. enabling anyone from a master chef to a novice to reproduce the refined tastes, textures, and beauty of Persian cuisine. Food-related pieces from such classics as the 10th century&nbsp;<em>Book of Kings,</em>&nbsp;and&nbsp;<em>1,001 Nights</em>&nbsp;to the miniatures of Mir Mosavvar and Aq Mirak, from the poetry of Omar Khayyam and Sohrab Sepehri to the humor of Mulla Nasruddin are all included. Each recipe is presented with steps that are logical and easy to follow. Readers learn how to simply yet deliciously cook rice, the jewel of Persian cooking, which, when combined with a little meat, fowl, or fish, vegetables, fruits, and herbs, provides the perfect balanced diet.<br></p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.amazon.com/Food-Life-Ancient-Persian-Ceremonies/dp/193382347X/ref=as_li_ss_tl?s=books&amp;ie=UTF8&amp;qid=1546274047&amp;sr=1-3&amp;keywords=persian+cookbooks&amp;linkCode=ll1&amp;tag=persiancookbook-20&amp;linkId=06cf1c0cdb5e50641c8af969d1d0f128&amp;language=en_US">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=193382347X" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/food-of-life-ancient-persian-and-modern-iranian-cooking-and-ceremonies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Louisa Shafia &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/author/persian-cookbook/louisa-shafia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 19:07:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>The New Persian Kitchen</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/the-new-persian-kitchen/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/the-new-persian-kitchen/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Tue, 16 Apr 2013 17:20:48 +0000</pubDate>
+				<category><![CDATA[Louisa Shafia]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=111</guid>
+
+					<description><![CDATA[This luscious and contemporary take on the alluring cuisine of Iran featuring 75 recipes for both traditional Persian dishes and modern reinterpretations using Middle Eastern ingredients. In&#160;The New Persian Kitchen, acclaimed chef and Lucid Food blogger Louisa Shafia explores her Iranian heritage by reimagining classic Persian recipes from a fresh, vegetable-focused perspective. These vibrant recipes... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/the-new-persian-kitchen/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><strong>This luscious and contemporary take on the alluring cuisine of Iran featuring 75 recipes for both traditional Persian dishes and modern reinterpretations using Middle Eastern ingredients.<br><br></strong>In&nbsp;<em>The New Persian Kitchen</em>, acclaimed chef and Lucid Food blogger Louisa Shafia explores her Iranian heritage by reimagining classic Persian recipes from a fresh, vegetable-focused perspective. These vibrant recipes demystify Persian ingredients like rose petals, dried limes, tamarind, and sumac, while offering surprising preparations for familiar foods such as beets, carrots, mint, and yogurt for the busy, health-conscious cook. The nearly eighty recipes—such as Turmeric Chicken with Sumac and Lime, Pomegranate Soup, and ice cream sandwiches made with Saffron Frozen Yogurt and Cardamom Pizzelles—range from starters to stews to sweets, and employ streamlined kitchen techniques and smart preparation tips.&nbsp;<br><br>A luscious, contemporary take on a time-honored cuisine,&nbsp;<em>The New Persian Kitchen</em>&nbsp;makes the exotic and beautiful tradition of seasonal Persian cooking both accessible and inspiring.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://amzn.to/2BPiGvj">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=1607743574" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/the-new-persian-kitchen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">111</post-id>	</item>
+	</channel>
+</rss>

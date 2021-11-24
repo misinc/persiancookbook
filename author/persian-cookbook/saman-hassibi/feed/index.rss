@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Saman Hassibi &#8211; Persian Cookbook</title>
+	<atom:link href="https://persiancookbook-clone.mystagingwebsite.com/author/persian-cookbook/saman-hassibi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://persiancookbook-clone.mystagingwebsite.com</link>
+	<description>A collection of Persian cookbooks</description>
+	<lastBuildDate>Mon, 31 Dec 2018 19:10:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">197439166</site>	<item>
+		<title>A Persian Cookbook: The Manual</title>
+		<link>https://persiancookbook-clone.mystagingwebsite.com/a-persian-cookbook-the-manual/</link>
+					<comments>https://persiancookbook-clone.mystagingwebsite.com/a-persian-cookbook-the-manual/#respond</comments>
+		
+		<dc:creator><![CDATA[persiancookbook]]></dc:creator>
+		<pubDate>Thu, 12 Jul 2018 18:07:39 +0000</pubDate>
+				<category><![CDATA[Saman Hassibi]]></category>
+		<category><![CDATA[persian cookbook]]></category>
+		<guid isPermaLink="false">https://persiancookbook-clone.mystagingwebsite.com/?p=158</guid>
+
+					<description><![CDATA[This book brings pieces of the oldest Persian cooking manuscripts into its first English translation, vital for culinary enthusiasts worldwide. Food has always acted as a focal point around which people of different origins come together. Food has also been one of the best elements to introduce different cultures. Today, perhaps more than ever, people... <div class="link-more"><a href="https://persiancookbook-clone.mystagingwebsite.com/a-persian-cookbook-the-manual/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>This book brings pieces of the oldest Persian cooking manuscripts into its first English translation, vital for culinary enthusiasts worldwide. Food has always acted as a focal point around which people of different origins come together. Food has also been one of the best elements to introduce different cultures. Today, perhaps more than ever, people in the West need understand Middle Eastern culture. Perhaps, this book on the culture and lives of people in Middle East can paint a different picture to what been published before.</p></blockquote>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.amazon.com/Persian-Cookbook-Manual-Saman-Hassibi/dp/1909248592/ref=as_li_ss_tl?s=books&amp;ie=UTF8&amp;qid=1546282568&amp;sr=1-3&amp;keywords=persian+cookbooks+best+sellers&amp;linkCode=ll1&amp;tag=persiancookbook-20&amp;linkId=3caa96e8de700c0161daf8a14a7577bf&amp;language=en_US">Buy Now on Amazon for <img src="https://ir-na.amazon-adsystem.com/e/ir?t=persiancookbook-20&l=alb&o=1&a=1909248592" width="1px" height="1px" alt="" style="position: fixed !important; bottom: -1px !important; right: -1px !important; border:none !important; margin:0px !important;" /></a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://persiancookbook-clone.mystagingwebsite.com/a-persian-cookbook-the-manual/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">158</post-id>	</item>
+	</channel>
+</rss>
