@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   branch: main
 
-# display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
+display_url: https://www.persiancookbook.com # This url will display in the top-right of the CMS
 media_library:
       name: uploadcare
       config:
