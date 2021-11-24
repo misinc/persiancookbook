@@ -1,10 +1,5 @@
-backend:
-	  name: persiancookbook
-	  branch: main # Branch to update (optional; defaults to master)
-# This line should *not* be indented
-media_folder: "images" # Media files will be stored in the repo under images/uploads
 collections:
-	  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+	- name: "blog" # Used in routes, e.g., /admin/collections/blog
 		label: "Blog" # Used in the UI
 		folder: "{{slug}}" # The path to the folder where the documents are stored
 		create: true # Allow users to create new documents in this collection
@@ -16,3 +11,8 @@ collections:
 		  - {label: "Featured Image", name: "thumbnail", widget: "image"}
 		  - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
 		  - {label: "Body", name: "body", widget: "markdown"}
+backend:
+	  name: persiancookbook
+	  branch: main # Branch to update (optional; defaults to master)
+# This line should *not* be indented
+media_folder: "images" # Media files will be stored in the repo under images/uploads
